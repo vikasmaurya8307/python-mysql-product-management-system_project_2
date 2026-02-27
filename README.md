@@ -1,4 +1,4 @@
-# python-mysql-product-management-system
+# python-mysql-product-management-system project_2
 CLI-based Product Management System using Python, MySQL, and Pandas to insert, display, and search product records with structured tabular output.
 🗄️ Product Database Management System (Python + MySQL)
 
